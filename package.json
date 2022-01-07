@@ -1,0 +1,25 @@
+{
+  "name": "mood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noble-8/mood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noble-8/mood/issues"
+  },
+  "homepage": "https://github.com/noble-8/mood#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fastestsmallesttextencoderdecoder-encodeinto": "^1.0.22",
+    "mongodb": "^4.2.2",
+    "util": "^0.12.4"
+  }
+}
